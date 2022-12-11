@@ -6,4 +6,8 @@
 - OpenCV
 - Numpy
 
-# 
+# Usage
+- Press Number Key 1 and hold: draw lines
+- Press Number Key 2 and hold: draw rectangles
+- Press Number Key 3 and hold: draw circles
+- Press Esc to end the program
